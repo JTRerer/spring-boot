@@ -48,5 +48,3 @@ VALUES
 ('susan','ROLE_EMPLOYEE'),
 ('susan','ROLE_MANAGER'),
 ('susan','ROLE_ADMIN');
-
-
