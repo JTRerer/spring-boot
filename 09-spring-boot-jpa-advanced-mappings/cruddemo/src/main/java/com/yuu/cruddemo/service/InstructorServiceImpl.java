@@ -1,6 +1,6 @@
 package com.yuu.cruddemo.service;
 
-import com.yuu.cruddemo.repo.InstructorRepository;
+import com.yuu.cruddemo.entity.repo.InstructorRepository;
 import com.yuu.cruddemo.entity.Instructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

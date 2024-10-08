@@ -1,7 +1,7 @@
 package com.yuu.cruddemo.service;
 
 import com.yuu.cruddemo.entity.Review;
-import com.yuu.cruddemo.repo.ReviewRepository;
+import com.yuu.cruddemo.entity.repo.ReviewRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

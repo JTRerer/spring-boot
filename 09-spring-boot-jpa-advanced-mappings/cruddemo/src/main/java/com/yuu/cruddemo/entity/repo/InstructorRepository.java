@@ -1,4 +1,4 @@
-package com.yuu.cruddemo.repo;
+package com.yuu.cruddemo.entity.repo;
 
 import com.yuu.cruddemo.entity.Instructor;
 import org.springframework.data.jpa.repository.JpaRepository;

@@ -1,7 +1,7 @@
 package com.yuu.cruddemo.service;
 
 import com.yuu.cruddemo.entity.Student;
-import com.yuu.cruddemo.repo.StudentRepository;
+import com.yuu.cruddemo.entity.repo.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
